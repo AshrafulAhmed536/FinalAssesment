@@ -1,0 +1,27 @@
+1.Differece Between BVT and Defects life Cycle.
+	BVT: Stands for Build verification System.
+		Each Build is associated with a version number and a release note attached to it.
+		BVT process is automated.
+	
+	Defects Life Cycle: Defect life Cycle is also known as Bug life Cycle.
+				Defect life cycle is different states that a bug takes befor it is closed.
+				The different States are
+					New, Open, Fixed, Retest, Closed.
+
+2.TEST PROCESS
+	Test process is defining the activities that will take place while testing.
+	Test process usually contains these 5 activities.
+		Planning, Specification, Execution , Recording, Checking for Test Completion
+  TEST DESIGN
+	Test design is a process that describes “how” testing should be done. It includes processes for the identifying test cases by enumerating steps of the defined test conditions.
+	 The testing techniques defined in test strategy or plan is used for enumerating the steps.
+
+3.HTTP:Stands for "Hypertext Transfer Protocol." HTTP is the protocol used to transfer data over the web. 
+	It is part of the Internet protocol suite and defines commands and services used for transmitting webpage data.
+  SOAP:SOAP is an acronym for Simple Object Access Protocol. It is an XML-based messaging protocol for exchanging information among computers. 
+	SOAP is an application of the XML specification.
+  REST:Representational state transfer (REST) is a software architectural style that defines a set of constraints to be used for creating Web services. 
+	Web services that conform to the REST architectural style, called RESTful Web services, provide interoperability between computer systems on the Internet.
+
+4.Selenium is a free (open source) automated testing suite for web applications across different browsers and platforms.
+5.LoadRunner is an automated load testing tool that allows you to test your application before, during, and after deployment.
